@@ -7,7 +7,8 @@
 **MOD-Tailor** 是一款为 Nintendo Switch 游戏专属定制的模组包，汇集了多样的自制内容，旨在为玩家带来极致的游戏体验。
 
 让你的游戏世界不再单调，尽显创意与灵感！
-![Uploading Firefly 正在绘画的可达鸭，背景为日本东京，最终幻想风格 38774.jpg…]()
+
+![Firefly 正在绘画的可达鸭，背景为日本东京，最终幻想风格 38774](https://github.com/user-attachments/assets/445b0148-a9cc-41a0-a616-e0929d4bb942)
 
 
 ## 特色
