@@ -61,7 +61,6 @@
 
 - [ppkantorski](https://github.com/ppkantorski)
 - [Cooler3D](https://github.com/rashevskyv/4IFIR)
-- [XorTroll](https://github.com/XorTroll)
 - ...
 
 我们感谢所有社区成员的支持和贡献！
