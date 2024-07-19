@@ -67,13 +67,6 @@
 
 我们感谢所有社区成员的支持和贡献！
 
-## 支持我们
-
-如果您喜欢我们的项目并希望其不断进步，可以通过以下 Ko-fi 按钮进行支持：
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/YourKoFiPage)
-
-您的支持是我们继续前进的最大动力。非常感谢您的慷慨帮助！
 
 ## 联系方式
 
