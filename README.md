@@ -30,7 +30,6 @@
 ## 使用说明
 
 操作 **MOD-Tailor** 非常简单：
-![MOD-Tailor Usage Image](https://github.com/sskyNS/MOD-Tailor/assets/121209531/your-image-link)
 
 1. 确认所有文件已正确放置在 SD 卡的 `atmosphere/contents` 目录中。
 2. 重启 Switch 设备并进入自制模式。
