@@ -61,7 +61,7 @@
 
 - [ppkantorski](https://github.com/ppkantorski)
 - [Cooler3D](https://github.com/rashevskyv/4IFIR)
-- [masagrator]([https://github.com/masagrator/FPSLocker]
+- [masagrator](https://github.com/masagrator/FPSLocker)
 
 - ...
 
